@@ -1,6 +1,6 @@
 Hi, I'm Sanharat 👋
 
-![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
+![Header image](https://cdn.discordapp.com/attachments/953930563759259678/1011909697835638825/Untitled.png)
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
