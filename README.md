@@ -1,8 +1,11 @@
-Hi, I'm Sanharat 👋
 
 ![Header image](https://cdn.discordapp.com/attachments/953930563759259678/1011910655885971540/cp123123123.png)
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
-I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
+
+Hi, I'm Sanharat 👋
+- 🔭  I'm currently working at NECTEC and work as Serveradmin/Software Developer.
+- 🌱 I’m currently learning about ERP Software, Machine learning, BA.
+
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
