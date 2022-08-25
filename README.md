@@ -11,7 +11,7 @@ Hi, I'm Sanharat 👋
 
 
 [![Linkedin Badge](####)](https://www.linkedin.com/in/####/)
-[![Instagram Badge](####)](https://www.instagram.com/####/)
+[![Instagram Badge](saharat.mel)](https://www.instagram.com/####/)
 [![Website Badge](####)](####)
 [![Gmail Badge](####)](####)
 ## ⚡ Domains:
